@@ -1,16 +1,68 @@
-## Hi there 👋
+## 💫 About Me  
+I am currently pursuing a degree in Computer Engineering at Cairo University, driven by a strong passion for hardware systems, and low-level computing.  
+I have hands-on experience in embedded systems, FPGA design, and microcontrollers such as STM32, with strong skills in C++, ARM assembly, and HDL (VHDL/Verilog).  
 
-<!--
-**mariamramadan0306/mariamramadan0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Programming Languages  
+![C++](https://skillicons.dev/icons?i=cpp)  
+![C#](https://skillicons.dev/icons?i=cs) 
+![C](https://skillicons.dev/icons?i=c) 
+![Python](https://skillicons.dev/icons?i=python)  
+![JavaScript](https://skillicons.dev/icons?i=js)  
+
+---
+
+### 🔹 Frontend  & Web development
+![HTML](https://skillicons.dev/icons?i=html)  
+![CSS](https://skillicons.dev/icons?i=css)  
+![React](https://skillicons.dev/icons?i=react)
+![MySQL](https://skillicons.dev/icons?i=mysql)  
+
+---
+
+### 🔹 Scientific & Data Computing  
+![Python](https://skillicons.dev/icons?i=python)  
+**NumPy, Matplotlib**
+
+---
+
+### 🔹 Hardware & Digital Design  
+**Verilog, VHDL, ARM Architecture, FPGA, STM32, ARM Assembly**
+
+---
+
+## 🧰 Tools & Technologies  
+![Git](https://skillicons.dev/icons?i=git)  
+![GitHub](https://skillicons.dev/icons?i=github)  
+![Linux](https://skillicons.dev/icons?i=linux)   
+**Quartus, ModelSim, Multisim, Canva**
+
+---
+
+## 🚀 Currently Learning & Improving  
+- Embedded Systems  
+- Operating Systems  
+- Artificial Intelligence  
+- Machine Learning  
+- Problem Solving and Core Software Engineering Concepts  
+
+---
+
+## 📊 Languages Used in My Repositories  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamramadan0306&layout=compact&theme=tokyonight)
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariamramadan0306&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariamramadan0306&theme=tokyonight)
+
+---
+
+## 📫 Contact Me  
+- 📧 Email: Mariam.Mohamed06@eng-st.cu.edu.eg
+- 💼 LinkedIn: https://www.linkedin.com/in/mariam-mohamed-923025335  
