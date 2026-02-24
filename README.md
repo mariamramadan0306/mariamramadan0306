@@ -7,38 +7,27 @@ I have hands-on experience in embedded systems, FPGA design, and microcontroller
 ## 🛠️ Technical Skills  
 
 ### 🔹 Programming Languages  
-![C++](https://skillicons.dev/icons?i=cpp)  
-![C#](https://skillicons.dev/icons?i=cs) 
-![C](https://skillicons.dev/icons?i=c) 
-![Python](https://skillicons.dev/icons?i=python)  
-![JavaScript](https://skillicons.dev/icons?i=js)  
+![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![C](https://skillicons.dev/icons?i=c) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js)
 
 ---
 
-### 🔹 Frontend  & Web development
-![HTML](https://skillicons.dev/icons?i=html)  
-![CSS](https://skillicons.dev/icons?i=css)  
-![React](https://skillicons.dev/icons?i=react)
-![MySQL](https://skillicons.dev/icons?i=mysql)  
+### 🔹 Frontend & Web Development  
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ---
 
 ### 🔹 Scientific & Data Computing  
-![Python](https://skillicons.dev/icons?i=python)  
-**NumPy, Matplotlib**
+![Python](https://skillicons.dev/icons?i=python) ![NumPy](https://skillicons.dev/icons?i=numpy) ![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
 
 ---
 
 ### 🔹 Hardware & Digital Design  
-**Verilog, VHDL, ARM Architecture, FPGA, STM32, ARM Assembly**
+![Verilog](https://skillicons.dev/icons?i=verilog) ![VHDL](https://skillicons.dev/icons?i=vhdl) ![ARM](https://skillicons.dev/icons?i=arm) ![Arduino](https://skillicons.dev/icons?i=arduino)
 
 ---
 
 ## 🧰 Tools & Technologies  
-![Git](https://skillicons.dev/icons?i=git)  
-![GitHub](https://skillicons.dev/icons?i=github)  
-![Linux](https://skillicons.dev/icons?i=linux)   
-**Quartus, ModelSim, Multisim, Canva**
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Linux](https://skillicons.dev/icons?i=linux) ![Canva](https://skillicons.dev/icons?i=canva)
 
 ---
 
@@ -57,12 +46,12 @@ I have hands-on experience in embedded systems, FPGA design, and microcontroller
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariamramadan0306&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariamramadan0306&show_icons=true&theme=tokyonight)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariamramadan0306&theme=tokyonight)
 
 ---
 
 ## 📫 Contact Me  
-- 📧 Email: Mariam.Mohamed06@eng-st.cu.edu.eg
+- 📧 Email: Mariam.Mohamed06@eng-st.cu.edu.eg  
 - 💼 LinkedIn: https://www.linkedin.com/in/mariam-mohamed-923025335  
