@@ -4,7 +4,7 @@ I have hands-on experience in embedded systems, FPGA design, and microcontroller
 
 ---
 
-## 🛠️ Technical Skills  
+## 💻 Technical Skills  
 
 ### 🔹 Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
